@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email_field">Email</string>
+    <string name="password_field">Senha</string>
+    <string name="login_button">Login</string>
+
+    <string name="error_no_connectivity">Sem conexão com a internet</string>
+    <string name="error_invalid_credentials">Login ou senha inválidos</string>
+    <string name="error_unexpected">Erro inesperado</string>
+</resources>
